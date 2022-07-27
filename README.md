@@ -1,4 +1,4 @@
-- 🧬 Hi, I’m @HannahBeattie 👩🏼‍🎤 
-- 🪅 I’m interested in ART, MUSIC, INSECTS and holistic learning through play 🧠
-- 🌱 I’m currently learning how to code (!!!)
-- 👁️ My mascot is a creature who has an eyeball for a head(!)
+- 🧬 Hello, I am hannah. 
+- 🪅 I am interested in art, music, insects and holistic learning 
+- 🌱 I recently graduated from Dev Academy 
+- 🧠 My background is in design, writin, art and photography 
