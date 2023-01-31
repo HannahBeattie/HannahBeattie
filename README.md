@@ -1,4 +1,4 @@
 - 🧬 Hello, I am hannah. 
-- 🪅 I am interested in art, music, insects and holistic learning 
-- 🌱 I recently graduated from Dev Academy 
-- 🧠 My background is in design, writin, art and photography 
+- 🪅 An interdisciplinary artist & full stack developer
+- 🌱 I like working with: Next.js, Chakra.ui & graphql
+- 🤔 I am currently learning: Typescript, firebase & react Native 
